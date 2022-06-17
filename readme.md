@@ -14,7 +14,7 @@
 ## models
 
 1 - Employee
-2 - Attendence
+2- Attendence
 
 ## installation
 
@@ -41,4 +41,4 @@
 - to rum migrations
   `python3 manage.py makemigrations` then
   `python3 manage.py migrate`
-- [4] to run server `python3 manage.py runserver`
+- to run server `python3 manage.py runserver`
